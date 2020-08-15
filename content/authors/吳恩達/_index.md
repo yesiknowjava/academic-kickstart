@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Theodore L. Caputi
+title: 吳恩達
 
 # Username (this should match the folder name)
 authors:
-- admin
+- 吳恩達
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Economics & Health Researcher
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
@@ -70,12 +70,6 @@ user_groups:
 - Visitors
 ---
 
-My name is Theodore Caputi. I am currently studying at the University of York as a British Marshall Scholar. After my Marshall studies, I will begin studying for a Ph.D. in Economics at MIT. I am also the author of the Behavioral Health Matters blog for Psychology Today.
+吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-I graduated summa cum laude from the University of Pennsylvania with a B.S. in Economics in 2017 and first in my class with a Master of Public Health from University College Cork as a Mitchell Scholar in 2019. From 2018-2019, I was a Research Assistant for Professor Amanda Pallais at Harvard University’s Department of Economics and the National Bureau of Economic Research.
-
-### Research
-
-I am interested in the intersection of economics and health. Specifically, I use tools from economics (and related fields) to explore behavioral public health and health care policy for substance use disorders and addiction. I have researched the factors that lead adolescents and young adults to indulge in risky behaviors and how policy-makers can effectively and efficiently provide high-quality health care for people with substance use disorders.
-
-Most of my published papers are available free-of-charge on this site. My work has been featured in journals such as Journal of the American Medical Association (JAMA), JAMA Internal Medicine, JAMA Pediatrics, Health Affairs, Addiction, American Journal of Preventive Medicine, American Journal of Public Health, and Tobacco Control and in news outlets such as the LA Times and CNN.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
