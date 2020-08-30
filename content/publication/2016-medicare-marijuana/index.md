@@ -2,6 +2,7 @@
 title: "Medicare recipients’ use of medical marijuana"
 authors:
 - admin
+- Keith Humphreys
 date: "2016-10-01T00:00:00Z"
 
 doi: "10.1377/hlthaff.2016.1108"
@@ -14,13 +15,22 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent 
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name. 
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Ashley Bradford and David Bradford report that Medicare prescription drug spending declined substantially across a range of medications in states that legalized medical marijuana (Jul 2016). The authors conclude that “patients respond to medical marijuana legislation as if there are clinical benefits to the drug.”
+
+This conclusion rests on the ecological fallacy—that is, assuming homogeneity in correlations across the individual and population levels of analysis. 1 The only compelling way to assess the impact of medical marijuana on individual Medicare recipients is to analyze individual-level data.
+
+We analyzed individual-level data from the 2013 and 2014 National Survey on Drug Use and Health and found results that were incompatible with the conclusions presented by Bradford and Bradford. We found that fewer than 3 percent of Medicare recipients in states with medical marijuana laws use marijuana for medical purposes. If Bradford and Bradford’s conclusions were correct, this small percentage of Medicare recipients would have to be responsible for an extremely large reduction in the use of multiple prescription drug classes in states with medical marijuana laws.
+
+Furthermore, using logistic regression (controlling for overall health, demographic characteristics, and year fixed effects), we found that Medicare recipients who used marijuana for medical purposes were at significantly higher risk for nonmedical use of prescription pain relievers, compared to other recipients. Meanwhile, rates of use of nonmedical tranquilizers, sedatives, and stimulants were not statistically different between the two groups of recipients. These results are inconsistent with the conclusion that the use of marijuana for medical purposes is a common substitute for the use of a range of prescription drugs.
+
+These individual-level patterns should make us more cautious in drawing conclusions about medical marijuana’s impact from ecological studies.
+"
 
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, Humphreys K. Medicare recipients’ use of medical marijuana. Health Affairs. 2016 Oct 1;35(10):1936-."
@@ -30,7 +40,7 @@ tags:
 featured: false
 
 links:
-- name: paper Link
+- name: Paper Link
   url: 'https://www.healthaffairs.org/doi/10.1377/hlthaff.2016.1108'
 url_pdf: /files/HA-2016.pdf
 #url_code: '#'

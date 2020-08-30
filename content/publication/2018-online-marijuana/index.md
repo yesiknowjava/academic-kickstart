@@ -2,6 +2,9 @@
 title: "Online sales of marijuana: An unrecognized public health dilemma"
 authors:
 - admin
+- Eric C. Leas 
+- Mark Dredze  
+- John W. Ayers
 date: "2018-02-07T00:00:00Z"
 
 doi: "10.1016/j.amepre.2018.01.032"
@@ -14,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent 
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name. 
 publication: In *Source Themes Conference*
@@ -30,7 +33,7 @@ tags:
 featured: false
 
 links:
-- name: paper Link
+- name: Paper Link
   url: 'https://www.ajpmonline.org/article/S0749-3797(18)30064-3/fulltext'
 url_pdf: /files/AJPM-2018.pdf
 #url_code: '#'

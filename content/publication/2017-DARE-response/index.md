@@ -2,6 +2,7 @@
 title: "Response to comment by Hecht & Miller-Day on “Truth and D.A.R.E.: Is D.A.R.E.’s new Keepin’ it REAL curriculum suitable for American nationwide implementation?”"
 authors:
 - admin
+- A. Thomas McLellan , Ph.D.
 date: "2017-02-20T00:00:00Z"
 
 doi: "10.1080/09687637.2017.1288681"
@@ -14,13 +15,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent 
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name. 
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 'Response to Comment by Hecht & Miller-Day on “Truth and D.A.R.E.: Is D.A.R.E.’s new Keepin’ it REAL curriculum suitable for American nationwide implementation?”." Drugs: Education, Prevention and Policy, 24(2), p. 226'
 
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, McLellan AT. Response to Comment by Hecht & Miller-Day on “Truth and DARE: Is DARE’s new Keepin’ it REAL curriculum suitable for American nationwide implementation?”. Drugs: Education, Prevention and Policy. 2017 Mar 4;24(2):226-."
@@ -30,7 +31,7 @@ tags:
 featured: false
 
 links:
-- name: paper Link
+- name: Paper Link
   url: 'https://www.tandfonline.com/doi/full/10.1080/09687637.2017.1288681'
 url_pdf: /files/DEPP-2017.pdf
 #url_code: '#'

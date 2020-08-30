@@ -14,13 +14,14 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent 
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name. 
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "a.The Wharton School, University of Pennsylvania, United States<br />
+b.Drug Policy Institute, Department of Psychiatry, Division of Addiction Medicine, University of Florida, United States"
 
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, Humphreys K. Medical marijuana users are more likely to use prescription drugs medically and nonmedically. Journal of Addiction Medicine. July/August 2018;12(4):295-299"
@@ -30,7 +31,7 @@ tags:
 featured: false
 
 links:
-- name: paper Link
+- name: Paper Link
   url: 'https://europepmc.org/abstract/med/29664895'
 url_pdf: /files/JAM-2018.pdf
 #url_code: '#'
@@ -63,14 +64,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

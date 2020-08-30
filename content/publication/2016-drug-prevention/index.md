@@ -2,6 +2,7 @@
 title: "Where is the reality in reality-based drug prevention?"
 authors:
 - admin
+- Kevin A. Sabet
 date: "2016-07-13T00:00:00Z"
 doi: '10.1080/02791072.2016.1197989'
 venue: "Journal of Psychoactive Drugs"
@@ -13,13 +14,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent 
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name. 
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: New Perspectives on Drug Education/Prevention
 
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, Sabet KA. Commentary on “New Perspectives on Drug Education/Prevention”. Journal of Psychoactive Drugs. 2016 May 26;48(3):227-9."
@@ -29,7 +30,7 @@ tags:
 featured: false
 
 links:
-- name: paper Link
+- name: Paper Link
   url: 'https://www.tandfonline.com/doi/abs/10.1080/02791072.2016.1197989'
 url_pdf: /files/JPD-2016.pdf
 #url_code: '#'

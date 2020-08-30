@@ -2,6 +2,9 @@
 title: "Substance use among Lesbian, Gay, Bisexual, and Questioning adolescents in the United States, 2015"
 authors:
 - admin
+- Laramie R. Smith 
+- Steffanie A. Strathdee
+- John W. Ayers
 date: "2018-07-11T00:00:00Z"
 
 doi: "10.2105/AJPH.2018.304446"
@@ -14,14 +17,21 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent 
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name. 
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Objectives. To provide current national estimates of lesbian, gay, bisexual, and questioning (LGBQ) adolescents’ (grades 9–12) substance use risks.
 
+Methods. The 2015 national Youth Risk Behavior Survey included questions for 19 substance use outcomes covering 15 substances. LGBQ adolescents’ substance use was described and their risk relative to heterosexual adolescents was estimated after controlling for sociodemographic confounders.
+
+Results. In controlled analyses, we found that LGBQ adolescents were 1.12 (95% confidence interval [CI] = 1.06, 1.19) times as likely as heterosexual adolescents to report any lifetime and 1.27 (95% CI = 1.14, 1.41) times as likely to report past 30-day substance use. LGBQ adolescents were at significantly greater risk for all but 1 studied substance, including alcohol, cigarettes, cigars, cocaine, ecstasy, electronic vapor usage (“vaping”), hallucinogens, heroin, inhalants, marijuana, methamphetamine, prescription drugs (without physician direction), steroids, and synthetic marijuana.
+
+Conclusions. LGBQ adolescents are at substantially greater risk for substance use.
+
+Public Health Implications. Policymakers should invest in prevention and early intervention resources to address substance use risks among LGBQ adolescents."
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, Smith LR, Strathdee SA, Ayers JW. Substance use among Lesbian, Gay, Bisexual, and Questioning adolescents in the United States, 2015. American Journal of Public Health. 2018 Aug;108(8):1031-4."
 
@@ -30,7 +40,7 @@ tags:
 featured: false
 
 links:
-- name: paper Link
+- name: Paper Link
   url: 'https://ajph.aphapublications.org/doi/10.2105/AJPH.2018.304446'
 url_pdf: /files/AJPH-2018.pdf
 #url_code: '#'
@@ -63,14 +73,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

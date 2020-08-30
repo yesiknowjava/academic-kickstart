@@ -2,6 +2,8 @@
 title: "Physical and sexual violence among U.S. gay, lesbian, bisexual, and questioning adolescents."
 authors:
 - admin
+- Chelsea L. Shover
+- Ryan J. Watson
 date: "2020-03-09T00:00:00Z"
 doi: '10.1001/jamapediatrics.2019.6291'
 venue: "JAMA Pediatrics"
@@ -13,13 +15,14 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent 
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name. 
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Physical and sexual violence are known public health hazards,1 imposing substantial physical and emotional burdens on those who have experienced such violence.2 Gay, lesbian, bisexual, and questioning adolescents are believed to be at higher risk than their heterosexual peers for violence.3 However, no nationally representative study has examined the holistic risk of violence to sexual minority adolescents, and some forms of violence (eg, sexual assault by a stranger), to our knowledge, have not been assessed.4 We used data from the National Youth Risk Behavior Survey (YRBS), conducted every 2 years by the Centers for Disease Control and Prevention, to quantify the risk of physical and sexual violence faced by sexual minority adolescents attending high schools in the United States."
+
 
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, Shover CL, Watson RJ. Physical and sexual violence among U.S. gay, lesbian, bisexual, and questioning adolescents. JAMA Pediatrics. Published online Mar 9, 2020."
@@ -29,7 +32,7 @@ tags:
 featured: false
 
 links:
-- name: paper Link
+- name: Paper Link
   url: 'https://jamanetwork.com/journals/jamapediatrics/fullarticle/2762002'
 url_pdf: /files/JPED-2020.pdf
 #url_code: '#'
@@ -62,14 +65,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

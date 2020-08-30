@@ -1,7 +1,12 @@
 ---
 title: "Trends in internet searches for cannabidiol (CBD) in the United States"
 authors:
+- Eric C. Leas 
+- Alicia L. Nobles 
 - admin
+- Mark Dredze 
+- Davey M. Smith 
+- John W. Ayers
 date: "2019-05-16T00:00:00Z"
 doi: '10.1001/jamanetworkopen.2019.13853'
 venue: "JAMA Network Open"
@@ -13,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent 
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name. 
 publication: In *Source Themes Conference*
@@ -29,7 +34,7 @@ tags:
 featured: false
 
 links:
-- name: paper Link
+- name: Paper Link
   url: 'https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753393'
 url_pdf: /files/JNOP-2019.pdf
 #url_code: '#'
@@ -62,14 +67,4 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 

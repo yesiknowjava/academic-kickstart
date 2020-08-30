@@ -2,6 +2,7 @@
 title: "Truth and D.A.R.E.: Is D.A.R.E.’s new Keepin’ it REAL curriculum suitable for American nationwide implementation?"
 authors:
 - admin
+- A. Thomas McLellan
 date: "2016-06-28T00:00:00Z"
 
 doi: "10.1080/09687637.2016.1208731"
@@ -14,13 +15,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent 
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name. 
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "The study investigates the effectiveness and appropriateness of the Drug Abuse Resistance Education (D.A.R.E.) Keepin’ it REAL (KiR) curriculum – America’s most prevalent in-school prevention programme – using a modified systematic review procedure as adapted from the Cochrane Handbook. No published studies research the D.A.R.E. version of KiR, and so we consider the Keepin’ it REAL intervention as a whole. After reviewing the abstracts of 677 studies matching relevant keyword searches, 11 studies matched inclusion criteria (e.g. testing effectiveness on substance use). The systematic review yields mixed results for the effectiveness of the Keepin’ it REAL intervention. Concerns remain regarding the appropriateness of the KiR D.A.R.E. programme: (1) KiR has only been tested on a narrow audience and may not be appropriate for D.A.R.E.’s larger audience, (2) KiR may not be effective in reducing substance use among elementary school students and (3) the specific versions of KiR implemented by D.A.R.E. (KiR D.A.R.E. and KiR D.A.R.E. Elementary) have yet to be tested for efficacy. The authors recommend independent, randomised trials for the KiR D.A.R.E. curriculum and the development of a standardised measure and evaluation system for in-school substance use prevention programmes."
 
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, McLellan AT. Truth and DARE: Is DARE’s new Keepin’ it REAL curriculum suitable for American nationwide implementation?. Drugs: Education, Prevention and Policy. 2017 Jan 2;24(1):49-57."
@@ -30,7 +31,7 @@ tags:
 featured: false
 
 links:
-- name: paper Link
+- name: Paper Link
   url: 'https://www.tandfonline.com/doi/full/10.1080/09687637.2016.1208731'
 url_pdf: /files/DEPP-2016.pdf
 #url_code: '#'
@@ -63,14 +64,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

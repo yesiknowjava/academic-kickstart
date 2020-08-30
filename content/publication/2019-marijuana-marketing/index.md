@@ -1,7 +1,9 @@
 ---
 title: "The need for federal regulation of marijuana marketing"
 authors:
+- John W. Ayers
 - admin
+-  Eric C. Leas
 date: "2019-05-16T00:00:00Z"
 
 doi: "10.1001/jama.2019.4432"
@@ -14,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent 
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name. 
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "A national for-profit marijuana industry is expanding substantially in the United States. Thirty-three states have legalized medical marijuana, 10 of which (where 1 in 4 individuals reside) have also legalized recreational marijuana. Sales of marijuana are projected to increase from $8.5 billion to $75 billion by 2030, rivaling current tobacco sales ($125 billion).1 The initial marijuana marketplace was limited to a few states, but emerging brands have developed sophisticated national marketing campaigns that could potentially have an effect across state lines. This marketplace expansion, along with questionable marketing practices, introduces a need for federal action."
 
 # Summary. An optional shortened abstract.
 summary: "Ayers JW, Caputi TL, Leas EC. The need for federal regulation of marijuana marketing. JAMA. Published online May 16, 2019."
@@ -30,7 +32,7 @@ tags:
 featured: false
 
 links:
-- name: paper Link
+- name: Paper Link
   url: 'https://jamanetwork.com/journals/jama/fullarticle/2734209'
 url_pdf: /files/JAMA-2019.pdf
 #url_code: '#'
@@ -63,14 +65,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

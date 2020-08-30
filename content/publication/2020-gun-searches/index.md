@@ -2,6 +2,10 @@
 title: "Collateral crises of gun preparation and the COVID-19 pandemic: An infodemiology study"
 authors:
 - admin
+- John W Ayers
+- Mark Dredze
+- Nicholas Suplina
+- Sarah Burd-Sharps
 date: "2020-05-21T00:00:00Z"
 doi: '10.2196/19369'
 venue: "JMIR Public Health and Surveillance"
@@ -13,13 +17,23 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent 
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name. 
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Background: In the past, national emergencies in the United States have resulted in increased gun preparation (ie, purchasing new guns or removing guns from storage); in turn, these gun actions have effected increases in firearm injuries and deaths.
+
+Objective: The aim of this paper was to assess the extent to which interest in gun preparation has increased amid the coronavirus disease (COVID-19) pandemic using data from Google searches related to purchasing and cleaning guns.
+
+Methods: We fit an Autoregressive Integrated Moving Average (ARIMA) model over Google search data from January 2004 up to the week that US President Donald Trump declared COVID-19 a national emergency. We used this model to forecast Google search volumes, creating a counterfactual of the number of gun preparation searches we would expect if the COVID-19 pandemic had not occurred, and reported observed deviations from this counterfactual.
+
+Results: Google searches related to preparing guns have surged to unprecedented levels, approximately 40% higher than previously reported spikes following the Sandy Hook, CT and Parkland, FL shootings and 158% (95% CI 73-270) greater than would be expected if the COVID-19 pandemic had not occurred. In absolute terms, approximately 2.1 million searches related to gun preparation were performed over just 34 days. States severely affected by COVID-19 appear to have some of the greatest increases in the number of searches.
+
+Conclusions: Our results corroborate media reports that gun purchases are increasing amid the COVID-19 pandemic and provide more precise geographic and temporal trends. Policy makers should invest in disseminating evidence-based educational tools about gun risks and safety procedures to avert a collateral public health crisis."
+
+
 
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, Ayers JW, Dredze M, Suplina N, Burd-Sharps S. Collateral crises of gun preparation and the COVID-19 pandemic: An infodemiology study. JMIR Public Health and Surveillance. Published online May 21, 2020."
@@ -29,7 +43,7 @@ tags:
 featured: false
 
 links:
-- name: paper Link
+- name: Paper Link
   url: 'http://dx.doi.org/10.2196/19369'
 url_pdf: /files/JMIR-2020.pdf
 #url_code: '#'
@@ -62,14 +76,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
