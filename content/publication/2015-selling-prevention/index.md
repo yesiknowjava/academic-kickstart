@@ -13,7 +13,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent 
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name. 
 publication: In *Source Themes Conference*
@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Paper Link
+- name: paper Link
   url: 'http://www.globaldrugpolicy.com/Issues/Vol%209%20Issue%201/Final/Selling%20Prevention_Article.pdf'
 url_pdf: /files/JGDPP-2015.pdf
 #url_code: '#'
