@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: ""
+abstract: "Lucas et al. [1] recently stated that 87% of a sample (n = 473) of medical cannabis patients in Canada reported substituting marijuana for either alcohol, illicit substances or prescription drugs. The 87% figure was prominently displayed in both the abstract and the first sentence of the results section, making it appear to be the main result of the study. Indeed, the headline ‘87%’ finding gained momentum in popular media and news sources, as journalists at The Atlantic [2] and The Washington Post [3] used the finding as evidence that barriers to access medical marijuana are fuelling the United States’ problems with other drugs.This assertion appears, however, to be an extrapolation from an inadequately worded question. The three questions that were likely to have been the basis for the study’s 87% figure are:"
 
 # Summary. An optional shortened abstract.
 summary: "Caputi TL. Whether medical marijuana is ever substituted for other substances is not the full story. Drug and Alcohol Review. 2017 Jul;36(4):E3-4."
@@ -63,14 +63,4 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 

@@ -22,20 +22,7 @@ publication_short: In *STC*
 
 abstract: "Introduction
 Online cigarette dealers have lower prices than brick-and-mortar retailers and advertise tax-free status.1–8 Previous studies show smokers search out these online alternatives at the time of a cigarette tax increase.9,10 However, these studies rely upon researchers’ decision to consider a specific date and preclude the possibility that researchers focus on the wrong date. The purpose of this study is to introduce an unbiased methodology to the field of observing search patterns and to use this methodology to determine whether smokers search Google for “cheap cigarettes” at cigarette tax increases and, if so, whether the increased level of searches persists.
-
-Methods
-Publicly available data from Google Trends is used to observe standardized search volumes for the term, “cheap cigarettes”. Seasonal Hybrid Extreme Studentized Deviate and E-Divisive with Means tests were performed to observe spikes and mean level shifts in search volume.
-
-Results
-Of the twelve cigarette tax increases studied, ten showed spikes in searches for “cheap cigarettes” within two weeks of the tax increase. However, the mean level shifts did not occur for any cigarette tax increase.
-
-Conclusion
-Searches for “cheap cigarettes” spike around the time of a cigarette tax increase, but the mean level of searches does not shift in response to a tax increase. The SHESD and EDM tests are unbiased methodologies that can be used to identify spikes and mean level shifts in time series data without an a priori date to be studied. SHESD and EDM affirm spikes in interest are related to tax increases.
-
-Implications
-• Applies improved statistical techniques (SHESD and EDM) to Google search data related to cigarettes, reducing bias and increasing power
-
-• Contributes to the body of evidence that state and federal tax increases are associated with spikes in searches for cheap cigarettes and may be good dates for increased online health messaging related to tobacco"
+"
 
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, Dredze M, Cohen J, Ayers JW. They’re heating up: Search query data reveals significant public interest in heat-not-burn tobacco products. PLoS ONE. 12(10): e0185735."
@@ -78,14 +65,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

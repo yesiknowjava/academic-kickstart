@@ -21,8 +21,8 @@ publication_types: ["2"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: "a.The Wharton School, University of Pennsylvania, United States<br />
-b.Drug Policy Institute, Department of Psychiatry, Division of Addiction Medicine, University of Florida, United States"
+abstract: "Previous studies have found a negative population-level correlation between medical marijuana availability in US states, and trends in medical and nonmedical prescription drug use. These studies have been interpreted as evidence that use of medical
+marijuana reduces medical and nonmedical prescription drug use. This study evaluates whether medical marijuana use is a risk or protective factor for medical and nonmedical prescription drug use."
 
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, Humphreys K. Medical marijuana users are more likely to use prescription drugs medically and nonmedically. Journal of Addiction Medicine. July/August 2018;12(4):295-299"

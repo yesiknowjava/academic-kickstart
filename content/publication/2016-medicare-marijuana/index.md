@@ -25,12 +25,7 @@ abstract: "Ashley Bradford and David Bradford report that Medicare prescription 
 
 This conclusion rests on the ecological fallacy—that is, assuming homogeneity in correlations across the individual and population levels of analysis. 1 The only compelling way to assess the impact of medical marijuana on individual Medicare recipients is to analyze individual-level data.
 
-We analyzed individual-level data from the 2013 and 2014 National Survey on Drug Use and Health and found results that were incompatible with the conclusions presented by Bradford and Bradford. We found that fewer than 3 percent of Medicare recipients in states with medical marijuana laws use marijuana for medical purposes. If Bradford and Bradford’s conclusions were correct, this small percentage of Medicare recipients would have to be responsible for an extremely large reduction in the use of multiple prescription drug classes in states with medical marijuana laws.
-
-Furthermore, using logistic regression (controlling for overall health, demographic characteristics, and year fixed effects), we found that Medicare recipients who used marijuana for medical purposes were at significantly higher risk for nonmedical use of prescription pain relievers, compared to other recipients. Meanwhile, rates of use of nonmedical tranquilizers, sedatives, and stimulants were not statistically different between the two groups of recipients. These results are inconsistent with the conclusion that the use of marijuana for medical purposes is a common substitute for the use of a range of prescription drugs.
-
-These individual-level patterns should make us more cautious in drawing conclusions about medical marijuana’s impact from ecological studies.
-"
+We analyzed individual-level data from the 2013 and 2014 National Survey on Drug Use and Health and found results that were incompatible with the conclusions presented by Bradford and Bradford. We found that fewer than 3 percent of Medicare recipients in states with medical marijuana laws use marijuana for medical purposes. If Bradford and Bradford’s conclusions were correct, this small percentage of Medicare recipients would have to be responsible for an extremely large reduction in the use of multiple prescription drug classes in states with medical marijuana laws."
 
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, Humphreys K. Medicare recipients’ use of medical marijuana. Health Affairs. 2016 Oct 1;35(10):1936-."
@@ -73,14 +68,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

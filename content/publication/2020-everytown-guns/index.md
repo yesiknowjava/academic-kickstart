@@ -21,8 +21,9 @@ publication_types: ["2"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: "millions of Americans staying at home across the country during a crisis of intense emotional and economic stress, gun safety advocates have raised concerns about increased risks of unintentional shootings, domestic violence shootings, gun
+suicides, and city gun violence. Unprecedented spikes in background checks, meanwhile, reflect a dramatic increase in gun purchasing that compounds these risks. Federal background check data, however, fails to capture the full spectrum of ways
+that people acquire guns, as well as the number of people who are removing guns from gun lockers or other storage. In an effort to cast additional light on issues of firearm access during this stage of the COVID-19 crisis, we used real-time Google search data to gauge interest in buying and cleaning guns across the country."
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, Burd-Sharps S, Ayers JW, Dredze M, Suplina N. What search data shows about Americans and guns during the COVID-19 crisis. Everytown Research. 2020 April."
 
@@ -64,14 +65,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

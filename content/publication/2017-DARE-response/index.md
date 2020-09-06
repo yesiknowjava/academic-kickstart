@@ -20,7 +20,17 @@ publication_types: ["2"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: 'Response to Comment by Hecht & Miller-Day on “Truth and D.A.R.E.: Is D.A.R.E.’s new Keepin’ it REAL curriculum suitable for American nationwide implementation?”." Drugs: Education, Prevention and Policy, 24(2), p. 226'
+abstract: "Intelligent virtual assistants (IVA), such as Apple’s Siri, are
+transforming how the public seeks and finds information.1 IVAs
+are interfaces that enable users to interact with smart devices
+using spoken language in a natural way and provide a singular
+response to a query similar to speaking to a person.2 In contrast,
+traditional search engines return millions of relevant results to
+a query, relying on the user to collate the results and reach a
+conclusion. For example, querying “what’s the weather?” on a
+search engine would return multiple links from different weather
+services, but an IVA is designed to return a singular result—the
+current, local forecast."
 
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, McLellan AT. Response to Comment by Hecht & Miller-Day on “Truth and DARE: Is DARE’s new Keepin’ it REAL curriculum suitable for American nationwide implementation?”. Drugs: Education, Prevention and Policy. 2017 Mar 4;24(2):226-."
@@ -63,14 +73,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

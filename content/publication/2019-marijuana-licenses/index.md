@@ -20,8 +20,8 @@ publication_types: ["2"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: "Kevin Boehnke and coauthors (Feb 2019) describe the indications of licensed medical marijuana users in several states and compare those indications to evidence of efficacy. According to estimates from the National Survey on Drug Use and Health
+(NSDUH) for 2013–15, in medical marijuana states, approximately 2.5 percent of Americans older than age twelve used medical marijuana in the past year.1"
 # Summary. An optional shortened abstract.
 summary: "Caputi TL. Medical cannabis use [Letter]. Health Affairs. 2019 May 1;38(5):874-. doi: 10.1377/hlthaff.2019.00198."
 
@@ -63,14 +63,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

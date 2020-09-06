@@ -21,10 +21,9 @@ publication_types: ["2"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Population-Level Analyses Cannot Tell Us Anything About Individual-Level Marijuana-Opioid Substitution.
-
-# Summary. An optional shortened abstract.
-summary: "Caputi TL, Sabet KA. Population-level analyses cannot tell us anything about individual-level marijuana-opioid substitution. American Journal of Public Health. 2018 Mar;108(3):e12-."
+abstract: "Livingston et al.1 studied the state-level correlation between opioid overdose deaths and recreational marijuana legislation. In the article’s introduction, the authors claim that the study will contribute to the literatureon whether cannabis is substituted for opioids in pain management, and the reader is given the premise that “with this substitution, an immediate reduction in opioid-related poisonings would be expected."
+# Summary: An optional shortened abstract.
+summary: "Caputi TL, Sabet KA.Population-level analyses cannot tell us anything about individual-level marijuana-opioid substitution. American Journal of Public Health. 2018 Mar;108(3):e12-."
 
 tags:
 - Source Themes
@@ -64,14 +63,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

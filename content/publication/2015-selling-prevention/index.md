@@ -19,7 +19,17 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Substance abuse prevention programs can be a tough sell to schools, but by employing
+common business frameworks, the field can more easily understand the state of the field
+and identify possible methods of expanding school-based substance abuse
+prevention. An analysis of the state of the substance abuse prevention field finds that the
+field often fails to consider the consumer when making strategic business decisions.
+Consumer-driven approaches such as the development and adoption of a standardized
+measure for effectiveness of in-school substance abuse prevention programs may expand
+the use and impact of substance abuse prevention. The field should extensively examine
+the current state of substance abuse prevention, through business tools such as the SWOT
+and Five C’s Analysis, before ultimately developing a strategy. The prevention field can
+learn from business practices."
 
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, Humphreys K. Medical marijuana users are more likely to use prescription drugs medically and nonmedically. Journal of Addiction Medicine. July/August 2018;12(4):295-299"
@@ -62,14 +72,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

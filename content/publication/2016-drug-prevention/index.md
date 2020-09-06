@@ -21,8 +21,16 @@ publication_types: ["2"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: New Perspectives on Drug Education/Prevention
-
+abstract: "Dr. Marsha Rosenbaum’s recent opinion piece (2016)
+calling for “reality-based” drug prevention and accompanying prevention program “Safety First: A Reality
+Based Approach to Teens and Drugs” (Rosenbaum
+2014) prompts the question: what is reality?
+If social science is to be believed, researchers must
+remove their subjective perception of “reality” and turn
+their attention to objective data. Rosenbaum claims that
+harm reduction programs are effective because they are
+based on “reality,” and yet, this “reality” is not based upon
+empirical data. "
 # Summary. An optional shortened abstract.
 summary: "Caputi TL, Sabet KA. Commentary on “New Perspectives on Drug Education/Prevention”. Journal of Psychoactive Drugs. 2016 May 26;48(3):227-9."
 
@@ -64,14 +72,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

@@ -20,7 +20,7 @@
 #   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Publication"
   url = "#featured"
   weight = 40
 
@@ -31,10 +31,7 @@
 #    url = "files/cv.pdf"
 #    weight = 50
 
-[[main]]
-  name = "News"
-  url = "news/"
-  weight = 60
+
 
 # [[main]]
 #   name = "Courses"
@@ -49,6 +46,11 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-   name = "Curriculum Vitae"
+   name = "CV"
    url = "cv/"
-   weight = 70
+   weight = 60
+
+[[main]]
+  name = "News"
+  url = "news/"
+  weight = 70
