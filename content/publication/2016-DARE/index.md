@@ -4,6 +4,8 @@ authors:
 - admin
 - A. Thomas McLellan
 date: "2016-06-28T00:00:00Z"
+altemetric_id: 10445264
+altemetric_id: 82576239
 
 doi: "10.1080/09687637.2016.1208731"
 venue: "Drugs: Education, Prevention, and Policy"

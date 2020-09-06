@@ -3,7 +3,7 @@ title: "Whether medical marijuana is ever substituted for other substances is no
 authors:
 - admin
 date: "2017-02-10T00:00:00Z"
-
+altemetric_id: 17783756
 doi: "10.1111/dar.12494"
 venue: "Drug and Alcohol Review"
 

@@ -4,6 +4,7 @@ authors:
 - admin
 - Kevin A. Sabet
 date: "2016-07-13T00:00:00Z"
+altemetric_id: 10445203
 doi: '10.1080/02791072.2016.1197989'
 venue: "Journal of Psychoactive Drugs"
 

@@ -4,7 +4,7 @@ authors:
 - admin
 - Kevin A. Sabet
 date: "2018-02-07T00:00:00Z"
-
+altemetric_id: 32821226
 doi: "10.2105/AJPH.2017.304253"
 venue: "American Journal of Public Health"
 

@@ -5,6 +5,7 @@ authors:
 date: "2018-07-01T00:00:00Z"
 
 doi: "10.1016/j.drugpo.2016.06.005"
+altemetric_id: 10128625
 venue: "Journal of Addiction Medicine"
 
 # Schedule page publish date (NOT publication's date). 

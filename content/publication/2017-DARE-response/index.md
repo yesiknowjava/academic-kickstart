@@ -4,7 +4,6 @@ authors:
 - admin
 - A. Thomas McLellan , Ph.D.
 date: "2017-02-20T00:00:00Z"
-
 doi: "10.1080/09687637.2017.1288681"
 venue: "Drugs: Education, Prevention, and Policy"
 

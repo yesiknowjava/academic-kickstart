@@ -6,7 +6,7 @@ authors:
 - Steffanie A. Strathdee
 - John W. Ayers
 date: "2018-07-11T00:00:00Z"
-
+altemetric_id: 44916079
 doi: "10.2105/AJPH.2018.304446"
 venue: "American Journal of Public Health"
 

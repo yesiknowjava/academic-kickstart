@@ -6,6 +6,7 @@ authors:
 - Camille Nebeker 
 -  Mark Dredze
 date: "2018-08-02T00:00:00Z"
+altemetric_id: 45930481
 doi: '10.1038/s41746-018-0036-2'
 venue: "npj Digital Medicine"
 

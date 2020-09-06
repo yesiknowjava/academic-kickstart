@@ -3,7 +3,7 @@ title: "The medical marijuana industry and the use of 'research as marketing'"
 authors:
 - admin
 date: "2020-01-08T00:00:00Z"
-
+altemetric_id: 73798099
 doi: "10.2105/AJPH.2019.305477"
 venue: "American Journal of Public Health"
 

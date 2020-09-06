@@ -3,6 +3,7 @@ title: "Google searches for “cheap cigarettes” spike at tax increases: Evide
 authors:
 - admin
 date: "2018-05-03T00:00:00Z"
+altemetric_id: 21275834
 doi: '10.1093/ntr/ntx143'
 venue: "Nicotine and Tobacco Research"
 

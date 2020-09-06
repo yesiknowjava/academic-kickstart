@@ -3,7 +3,7 @@ title: "The case for uniform controls in drug policy studies"
 authors:
 - admin
 date: "2016-07-01T00:00:00Z"
-
+altemetric_id: 10128625
 doi: "10.1016/j.drugpo.2016.06.005"
 venue: "International Journal of Drug Policy"
 

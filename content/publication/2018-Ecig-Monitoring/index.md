@@ -3,6 +3,7 @@ title: "Next generation media monitoring: Global coverage of electronic nicotine
 authors:
 - admin
 date: "2018-11-02T00:00:00Z"
+altemetric_id: 21275834
 doi: '10.1093/ntr/ntx143'
 venue: "PLoS ONE"
 

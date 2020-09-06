@@ -6,7 +6,7 @@ authors:
 - Mark Dredze  
 - John W. Ayers
 date: "2018-02-07T00:00:00Z"
-
+altemetric_id: 34714649
 doi: "10.1016/j.amepre.2018.01.032"
 venue: "American Journal of Public Health"
 

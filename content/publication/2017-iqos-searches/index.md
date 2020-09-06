@@ -3,6 +3,7 @@ title: "They’re heating up: Internet search query trends reveal significant pu
 authors:
 - admin
 date: "2017-10-11T00:00:00Z"
+altemetric_id: 21275834
 doi: '10.1093/ntr/ntx143'
 venue: "PLoS ONE"
 

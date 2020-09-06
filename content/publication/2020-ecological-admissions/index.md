@@ -3,7 +3,7 @@ title: "Medical marijuana laws, substance use treatment admissions and the ecolo
 authors:
 - admin
 date: "2020-01-01T00:00:00Z"
-
+altemetric_id: 70368484
 doi: "10.1111/add.14748"
 venue: 'Addiction'
 

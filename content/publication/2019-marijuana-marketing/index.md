@@ -5,7 +5,7 @@ authors:
 - admin
 -  Eric C. Leas
 date: "2019-05-16T00:00:00Z"
-
+altemetric_id: 60558197
 doi: "10.1001/jama.2019.4432"
 venue: "JAMA: Journal of the American Medical Association"
 

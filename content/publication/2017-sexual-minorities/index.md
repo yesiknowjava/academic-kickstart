@@ -5,8 +5,9 @@ authors:
 - Davey Smith
 - John W. Ayers
 date: "2017-12-19T00:00:00Z"
-
+altemetric_id: 30669057
 doi: "10.1001/jama.2017.16908"
+
 venue: "JAMA: Journal of the American Medical Association"
 
 # Schedule page publish date (NOT publication's date). 

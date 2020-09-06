@@ -8,6 +8,7 @@ authors:
 - Davey M. Smith 
 - John W. Ayers
 date: "2019-05-16T00:00:00Z"
+altemetric_id: 69155726
 doi: '10.1001/jamanetworkopen.2019.13853'
 venue: "JAMA Network Open"
 

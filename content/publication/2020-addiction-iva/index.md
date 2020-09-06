@@ -8,6 +8,7 @@ authors:
 - Steffanie A. Strathdee
 - John W. Ayers
 date: "2020-01-29T00:00:00Z"
+altemetric_id: 74695560
 doi: '10.1038/s41746-019-0215-9'
 venue: "npj Digital Medicine"
 

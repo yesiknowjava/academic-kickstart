@@ -5,7 +5,7 @@ authors:
 - Alicia L. Nobles
 - John W. Ayers
 date: "2018-12-21T00:00:00Z"
-
+altemetric_id: 53001776
 venue: "JAMA Internal Medicine"
 doi: '10.1001/jamainternmed.2018.5094'
 # Schedule page publish date (NOT publication's date). 

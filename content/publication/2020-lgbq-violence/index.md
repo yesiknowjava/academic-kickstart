@@ -5,6 +5,7 @@ authors:
 - Chelsea L. Shover
 - Ryan J. Watson
 date: "2020-03-09T00:00:00Z"
+altemetric_id: 77256728
 doi: '10.1001/jamapediatrics.2019.6291'
 venue: "JAMA Pediatrics"
 

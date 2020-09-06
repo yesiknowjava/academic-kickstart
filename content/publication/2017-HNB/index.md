@@ -3,6 +3,7 @@ title: "Heat-not-burn tobacco products are about to reach their boiling point"
 authors:
 - admin
 date: "2016-09-06T00:00:00Z"
+altemetric_id: 21275834
 doi: '10.1093/ntr/ntx143'
 venue: "Tobacco Control"
 

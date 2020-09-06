@@ -3,7 +3,7 @@ title: "Sex and orientation identity matter in the substance use behaviors of se
 authors:
 - admin
 date: "2018-06-01T00:00:00Z"
-
+altemetric_id: 34063650
 doi: "10.1016/j.drugalcdep.2018.01.012"
 venue: "Drug and Alcohol Dependence"
 

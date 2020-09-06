@@ -3,7 +3,7 @@ title: "Medical marijuana, not miracle marijuana: Some well-publicized studies a
 authors:
 - admin
 date: "2019-02-14T00:00:00Z"
-
+altemetric_id: 55645785
 doi: "10.1111/add.14580"
 venue: 'Addiction'
 

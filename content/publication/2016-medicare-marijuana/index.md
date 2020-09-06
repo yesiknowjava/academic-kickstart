@@ -4,7 +4,7 @@ authors:
 - admin
 - Keith Humphreys
 date: "2016-10-01T00:00:00Z"
-
+altemetric_id: 12474677
 doi: "10.1377/hlthaff.2016.1108"
 venue: "Health Affairs"
 

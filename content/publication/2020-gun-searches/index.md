@@ -7,6 +7,7 @@ authors:
 - Nicholas Suplina
 - Sarah Burd-Sharps
 date: "2020-05-21T00:00:00Z"
+altemetric_id: 82576239
 doi: '10.2196/19369'
 venue: "JMIR Public Health and Surveillance"
 
