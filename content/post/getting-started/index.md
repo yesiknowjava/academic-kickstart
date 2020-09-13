@@ -9,7 +9,7 @@ tags:
 - Academic
 - 开源
 categories:
-- Demo
+# - Demo
 - 教程
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
@@ -22,7 +22,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   preview_only: false
 
