@@ -1,7 +1,7 @@
 ---
 title: "Internet searches for unproven COVID-19 therapies in the United States"
 authors:
-- Michael LiuMark Dredze 
+- Michael Liu 
 - admin
 - Mark Dredze
 - Aaron S. Kesselheim
@@ -9,7 +9,7 @@ authors:
 date: "2020-04-29T00:00:00Z"
 doi: '10.1001/jamainternmed.2020.1764'
 venue: "JAMA Internal Medicine"
-doi: '10.1001/jamainternmed.2018.5094'
+doi: '10.1001/jamainternmed.2020.1764'
 # Schedule page publish date (NOT publication's date). 
 publishDate: "2017-01-01T00:00:00Z"
 
@@ -28,7 +28,7 @@ There are no highly effective prescription drug therapies supported by any relia
 This attention is especially troublesome because chloroquine and hydroxychloroquine (1) are thus far only known to inhibit severe acute respiratory syndrome coronavirus 2 in vitro,1 (2) have potential cardiovascular toxic effects,2 and (3) can be confused with commercially available chloroquine-containing products, such as aquarium cleaner. Poisonings, including 1 fatality, attributed to persons taking chloroquine to prevent or treat COVID-19 without the supervision of a licensed physician have already been reported.3 To better understand the scope of demand for these drugs, we examined internet searches indicative of shopping for chloroquine and hydroxychloroquine.4
 "
 # Summary. An optional shortened abstract.
-summary: "Caputi TL, Humphreys K. Medical marijuana users are more likely to use prescription drugs medically and nonmedically. Journal of Addiction Medicine. July/August 2018;12(4):295-299"
+summary: "Liu M, Caputi TL, Dredze M, Kesselheim AS, Ayers JW. Internet searches for unproven COVID-19 therapies in the United States. JAMA Intern Med. Forthcoming."
 
 tags:
 - Source Themes
@@ -49,7 +49,7 @@ url_pdf: /files/JIMD-2020.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
  
